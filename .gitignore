@@ -1,0 +1,21 @@
+# Environnement virtuel
+.venv/
+venv/
+
+# Fichiers Python compilés
+__pycache__/
+*.py[cod]
+
+# Données générées au lancement (base SQLite, musique en cache)
+data/
+
+# Builds (PyInstaller, pygbag)
+build/
+dist/
+*.spec
+
+# Fichiers système / éditeurs
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/

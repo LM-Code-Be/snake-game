@@ -1,0 +1,1 @@
+"""Scènes du jeu (écrans)."""
