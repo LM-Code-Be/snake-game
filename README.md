@@ -111,6 +111,8 @@ snake-game/
 Le fichier [TUTORIEL.md](TUTORIEL.md) explique **pas à pas** comment écrire ce jeu de zéro,
 fichier par fichier, avec tout le code commenté.
 
+📖 Retrouvez aussi l'article complet sur le blog : **[Créer un jeu Snake en Python avec Pygame](https://lm-code.be/jeu-snake-en-python-pygame/)**
+
 ## 👤 Crédits
 
 Développé par **LM-Code** : [github.com/LM-Code-Be](https://github.com/LM-Code-Be)
