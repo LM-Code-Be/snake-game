@@ -90,7 +90,6 @@ paramètres) et la musique générée.
 snake-game/
 ├── main.py              # Point d'entrée
 ├── requirements.txt     # Dépendances (pygame)
-├── TUTORIEL.md          # Tutoriel complet pour recréer le jeu pas à pas
 ├── LICENSE              # Licence MIT
 ├── docs/screenshots/    # Captures d'écran
 └── snake_game/
@@ -108,10 +107,9 @@ snake-game/
 
 ## 📚 Apprendre à le créer
 
-Le fichier [TUTORIEL.md](TUTORIEL.md) explique **pas à pas** comment écrire ce jeu de zéro,
-fichier par fichier, avec tout le code commenté.
+Le tutoriel complet, qui explique **pas à pas** comment développer ce jeu de zéro, est disponible sur le blog LM-Code :
 
-📖 Retrouvez aussi l'article complet sur le blog : **[Créer un jeu Snake en Python avec Pygame](https://lm-code.be/jeu-snake-en-python-pygame/)**
+📖 **[Créer un jeu Snake en Python avec Pygame](https://lm-code.be/jeu-snake-en-python-pygame/)**
 
 ## 👤 Crédits
 
