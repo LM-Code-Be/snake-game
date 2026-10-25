@@ -5,6 +5,8 @@ Un jeu de **Snake** complet en Python avec **Pygame** : graphismes néon, animat
 
 ![Partie en cours](docs/screenshots/gameplay.png)
 
+[![Voir la démo sur YouTube](https://img.shields.io/badge/YouTube-Voir%20la%20d%C3%A9mo%20du%20jeu-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtu.be/MTdyJD8l8pk)
+
 ## ✨ Fonctionnalités
 
 - **Mode Aventure** : 10 niveaux (obstacles, murs, portails), 3 vies, jusqu'à 3 étoiles par niveau
